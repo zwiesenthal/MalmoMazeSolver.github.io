@@ -2,7 +2,7 @@
 
 Zach Wiesenthal, Madhumitha Govindaraju, George Gabricht
 
-#Project Proposal
+# Project Proposal
 
 ### Summary:
 
